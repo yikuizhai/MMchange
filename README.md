@@ -1,4 +1,4 @@
-<img width="1068" height="417" alt="image" src="https://github.com/user-attachments/assets/951caa11-2533-4137-8e07-a6748c5fd9aa" /># MMchange
+# MMchange
 # <p align=center>`Multimodal Feature Fusion Network with Text Difference Enhancement for Remote Sensing Change Detection`</p>
 
 > **Authors:**
