@@ -18,7 +18,7 @@ Although deep learning has advanced remote sensing change detection (RSCD), most
 
 ### 2. Usage
 + Prepare the data:
-    - Download datasets [LEVIR](https://justchenhao.github.io/LEVIR/), [BCDD](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html), and [SYSU](https://github.com/liumency/SYSU-CD)
+    - Download datasets [LEVIR-CD](https://justchenhao.github.io/LEVIR/), [WHU-CD](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html), and [SYSU-CD](https://github.com/liumency/SYSU-CD)
     ```
     ├─Train
         ├─A        ...jpg/png
