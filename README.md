@@ -41,6 +41,6 @@ Although deep learning has advanced remote sensing change detection (RSCD), most
     ```
 
 + Prerequisites for Python:
-    - Creating a virtual environment in the terminal: `conda create -n A2Net python=3.8`
+    - Creating a virtual environment in the terminal: `conda create -n MMchange python=3.8`
     - Installing necessary packages: `pip install -r requirements.txt `
 
