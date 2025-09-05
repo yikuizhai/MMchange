@@ -1,6 +1,8 @@
 # MMchange
 # <p align=center>`Multimodal Feature Fusion Network with Text Difference Enhancement for Remote Sensing Change Detection`</p>
 
+To ensure the timely dissemination of our research findings while maintaining the originality of the manuscript, we have uploaded this work to the arXiv platform, which can be accessed at: http://arxiv.org/abs/2509.03961.
+
 > **Authors:**
 Yijun Zhou, Yikui Zhai, Zilu Ying, Tingfeng Xian, Wenlve Zhou, Zhiheng Zhou, Xiaolin Tian, Xudong Jia, Hongsheng Zhang,  C. L. Philip Chen
 
