@@ -12,7 +12,8 @@ Although deep learning has advanced remote sensing change detection (RSCD), most
 
 
 <p align="center">
-    <img width="1068" height="417" alt="image" src="https://github.com/user-attachments/assets/2e846ff2-7f39-424b-9c3c-a3cb4db18046" />
+   <img width="1587" height="627" alt="image" src="https://github.com/user-attachments/assets/834060d9-6930-4660-b607-3ba7a991b62d" />
+
  <br />
 </p>
 
