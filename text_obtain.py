@@ -16,8 +16,8 @@ config = model.config
 tokenizer = AutoTokenizer.from_pretrained(hf_path, use_fast=False,
                                           model_max_length=config.tokenizer_model_max_length,
                                           padding_side=config.tokenizer_padding_side)
-# prompt = "What are these?"
-prompt = "What are the artificial features in this picture?"
+prompt = "What are these?"
+
 
 def obtain_image(img_path):
     imgs = []
