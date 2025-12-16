@@ -9,7 +9,7 @@ os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
 import json
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-hf_path = '/media/WD_2T/ZYJ/huggingface/tiny/'
+hf_path = ''
 model = AutoModelForCausalLM.from_pretrained(hf_path, trust_remote_code=True)
 model.cuda()
 config = model.config
@@ -29,13 +29,13 @@ def obtain_image(img_path):
                 imgs.append(os.path.join(root,file))
     return imgs,imgs_name
 
-imgs_path = "/media/chill/PortableSSD/查违数据/to_zyj7.10/alighed_256_8_1_1_red/train/A"
+imgs_path = ""
 imgs, imgs_name = obtain_image(imgs_path)
 
 for i in range(len(imgs)):
     output_text, genertaion_time = model.chat(prompt=prompt, image=imgs[i], tokenizer=tokenizer)
     # 打开已存在的JSON文件，如果不存在则创建一个新的文件
-    with open("/media/chill/PortableSSD/查违数据/to_zyj7.10/alighed_256_8_1_1_red/train/A.json", "r+", encoding="utf-8") as file:
+    with open("", "r+", encoding="utf-8") as file:
         # 尝试读取文件中的现有数据
         try:
             data = json.load(file)
