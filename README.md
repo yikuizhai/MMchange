@@ -43,5 +43,6 @@ Although deep learning has advanced remote sensing change detection (RSCD), most
     - Installing necessary packages: `pip install -r requirements.txt `
  
 Use text_obtain.py to generate text descriptions for A and B in train, val, and test respectively, and finally merge all the JSON files into a single JSON for training.
+
 TinyLLaVA：https://pan.quark.cn/s/8e1a70eda144
 
