@@ -41,4 +41,6 @@ Although deep learning has advanced remote sensing change detection (RSCD), most
 + Prerequisites for Python:
     - Creating a virtual environment in the terminal: `conda create -n MMchange python=3.8`
     - Installing necessary packages: `pip install -r requirements.txt `
+ 
+Use text_obtain.py to generate text descriptions for A and B in train, val, and test respectively, and finally merge all the JSON files into a single JSON for training.
 
